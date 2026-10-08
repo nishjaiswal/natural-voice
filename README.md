@@ -5,6 +5,7 @@ Writing that sounds like you.
 [![Licence: MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 [![Latest release](https://img.shields.io/github/v/release/nishjaiswal/natural-voice)](https://github.com/nishjaiswal/natural-voice/releases/latest)
 [![Open Agent Skill](https://img.shields.io/badge/Agent%20Skill-open%20standard-informational)](https://agentskills.io)
+[![skills.sh](https://skills.sh/b/nishjaiswal/natural-voice)](https://skills.sh/nishjaiswal/natural-voice)
 
 [Install](#install) · [What you can say](#what-you-can-say) · [How it learns your voice](#how-it-learns-your-voice) · [Examples](examples/README.md) · [What it won't do](#what-it-wont-do) · [Contribute](#contributing)
 
