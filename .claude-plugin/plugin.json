@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "natural-voice",
+  "displayName": "Natural Voice",
+  "version": "1.0.0",
+  "description": "Learns how you write and talk, then writes and polishes text in your own voice, removes hidden characters, and explains what it changed. Works in Claude, Codex, Gemini, Cursor, Copilot, Manus and chat apps.",
+  "author": {
+    "name": "Nishesh Jaiswal",
+    "url": "https://github.com/nishjaiswal"
+  },
+  "homepage": "https://github.com/nishjaiswal/natural-voice",
+  "repository": "https://github.com/nishjaiswal/natural-voice",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "voice",
+    "style",
+    "editing",
+    "polish",
+    "dictation",
+    "humanise",
+    "ai-writing-patterns",
+    "hidden-characters"
+  ]
+}

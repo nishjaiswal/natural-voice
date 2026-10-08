@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How to install and use Natural Voice
+    url: https://github.com/nishjaiswal/natural-voice#readme
+    about: Install steps for each app, and how the voice file works.
+  - name: "Getting past AI detectors"
+    url: https://github.com/nishjaiswal/natural-voice#readme
+    about: Natural Voice edits for human readers. It can't promise that any detector will pass the text, and won't try to.

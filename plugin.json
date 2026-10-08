@@ -1,0 +1,41 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "natural-voice",
+  "version": "1.0.0",
+  "description": "Learns how you write and talk, then writes and polishes text in your own voice, removes hidden characters, and explains what it changed. Works in Claude, Codex, Gemini, Cursor, Copilot, Manus and chat apps.",
+  "author": {
+    "name": "Nishesh Jaiswal",
+    "url": "https://github.com/nishjaiswal"
+  },
+  "homepage": "https://github.com/nishjaiswal/natural-voice",
+  "repository": "https://github.com/nishjaiswal/natural-voice",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "voice",
+    "style",
+    "editing",
+    "polish",
+    "dictation",
+    "humanise",
+    "ai-writing-patterns",
+    "hidden-characters"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Natural Voice",
+        "shortDescription": "Write and polish text in your own voice",
+        "longDescription": "Learns how you write and talk from a short interview and your own samples, keeps it in one portable voice file, then writes new drafts and polishes any text in that voice. Removes AI writing patterns and hidden characters, shows what it changed, and never invents facts.",
+        "developerName": "Nishesh Jaiswal",
+        "category": "Productivity",
+        "websiteURL": "https://github.com/nishjaiswal/natural-voice",
+        "defaultPrompt": [
+          "Use Natural Voice to set up my writing voice.",
+          "Use Natural Voice to polish this text so it sounds like me.",
+          "Use Natural Voice to remove hidden characters from this text."
+        ]
+      }
+    }
+  }
+}

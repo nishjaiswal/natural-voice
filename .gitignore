@@ -1,0 +1,15 @@
+# System and Python clutter
+.DS_Store
+__pycache__/
+*.pyc
+
+# Personal files. Natural Voice keeps voice files, notes and drafts on the person's own
+# computer. They must never be committed. Only the made-up examples in examples/ ship.
+*.voice.md
+*.voice.backup.md
+!examples/*.voice.md
+Natural Voice/
+/natural-voice/
+
+# Personal Claude Code settings. The shared .claude/commands/ and .claude/CLAUDE.md stay tracked.
+.claude/settings.local.json

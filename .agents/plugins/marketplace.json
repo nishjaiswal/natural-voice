@@ -1,0 +1,20 @@
+{
+  "name": "natural-voice",
+  "interface": {
+    "displayName": "Natural Voice"
+  },
+  "plugins": [
+    {
+      "name": "natural-voice",
+      "source": {
+        "source": "url",
+        "url": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

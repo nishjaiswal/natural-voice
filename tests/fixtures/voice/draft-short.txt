@@ -1,0 +1,1 @@
+This is a short draft. It has only a few words in it, so the comparison should be skipped. That is the whole point of this little test file.

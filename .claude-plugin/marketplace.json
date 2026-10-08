@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "natural-voice",
+  "description": "Natural Voice: write and polish text in your own voice.",
+  "owner": {
+    "name": "Nishesh Jaiswal",
+    "url": "https://github.com/nishjaiswal"
+  },
+  "plugins": [
+    {
+      "name": "natural-voice",
+      "source": "./",
+      "description": "Learns how you write and talk, then writes and polishes text in your own voice, removes hidden characters, and explains what it changed.",
+      "category": "writing"
+    }
+  ]
+}

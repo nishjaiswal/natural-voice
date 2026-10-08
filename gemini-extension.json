@@ -1,0 +1,6 @@
+{
+  "name": "natural-voice",
+  "version": "1.0.0",
+  "description": "Learns how you write and talk, then writes and polishes text in your own voice, removes hidden characters, and explains what it changed.",
+  "contextFileName": "GEMINI.md"
+}

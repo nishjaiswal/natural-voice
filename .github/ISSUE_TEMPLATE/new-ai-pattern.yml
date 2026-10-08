@@ -1,0 +1,51 @@
+name: New AI writing pattern
+description: A habit of AI writing that Natural Voice doesn't catch yet.
+title: "New pattern: "
+labels: ["pattern"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the pattern list current.
+
+        **Please don't paste private writing.** No one else's work, nothing confidential, and no voice files. A short made-up or public example is enough. Remove names and personal details.
+
+  - type: textarea
+    id: example
+    attributes:
+      label: Example text
+      description: A short passage that shows the pattern. Highlight the part that gives it away.
+    validations:
+      required: true
+
+  - type: input
+    id: model
+    attributes:
+      label: Which model or app wrote it?
+      description: For example "Claude Opus 5.5 in the Claude app" or "GPT in ChatGPT". Say "not sure" if you don't know.
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: When did you see it?
+      description: A date, or roughly when (for example "October 2026").
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it read as automatic?
+      description: What makes it sound like a model rather than a person? How would a person usually write it?
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link (optional)
+      description: A study, article or public post that shows the pattern.
+    validations:
+      required: false

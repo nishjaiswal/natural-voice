@@ -1,0 +1,32 @@
+{
+  "about": "Every file that holds the Natural Voice version. scripts/bump_version.py updates all of them and scripts/validate.py checks they match. Add a line here if you add another file with a version in it.",
+  "files": [
+    {
+      "path": "skills/natural-voice/SKILL.md",
+      "format": "frontmatter",
+      "field": "metadata.version",
+      "date_field": "metadata.released"
+    },
+    {
+      "path": ".claude-plugin/plugin.json",
+      "format": "json",
+      "field": "version"
+    },
+    {
+      "path": "plugin.json",
+      "format": "json",
+      "field": "version"
+    },
+    {
+      "path": "gemini-extension.json",
+      "format": "json",
+      "field": "version"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "format": "changelog",
+      "field": "first heading",
+      "date_field": "first heading"
+    }
+  ]
+}

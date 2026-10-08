@@ -1,0 +1,18 @@
+Hi both,
+
+Quick update on the booking work, since I said I'd send one before Friday.
+
+The short version: the new time list is live for one clinic, and it's behaving. I haven't seen anything alarming in the first week. A couple of people still ring to book, but that's fine; some people just prefer to talk to someone, and I don't want to design that away.
+
+The longer version is messier. I realised on Tuesday that our test only covered weekday mornings. Afternoons are a different crowd — more parents, more people booking on a phone with one hand while holding a toddler with the other. I watched two of them try the flow and both missed the "Can't see a time?" link because it sat below the fold. That's on me. I've moved it up and made it bigger, and I'll check again next week.
+
+Two things I need from you:
+
+1. Can someone confirm whether we're allowed to show the clinician's name next to each time? I've assumed not, but it would help people who want a particular doctor.
+2. Is anyone keeping count of the calendar calls now? I'd love a rough number, even a guess, so I'm not just going on a hunch.
+
+I'm not going to claim this fixed bookings. It hasn't, not yet. But it's a much calmer flow than the old one, and the front desk seem happier, which counts for something.
+
+Thanks, and shout if anything looks off.
+
+P.

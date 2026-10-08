@@ -1,0 +1,7 @@
+interface:
+  display_name: "Natural Voice"
+  short_description: "Write and polish text in your own voice"
+  default_prompt: "Use $natural-voice to polish this text so it sounds like me, without changing its facts."
+
+policy:
+  allow_implicit_invocation: true
